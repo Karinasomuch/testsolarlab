@@ -32,7 +32,6 @@ body {
 .image {
     width: calc((100%/4) - 2px - 32px);
     height: 300px;
-    border: 1px solid black;
     margin: 16px;
     object-fit: cover;
 }
